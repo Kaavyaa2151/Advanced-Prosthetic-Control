@@ -1,4 +1,3 @@
-
 #sEMG Signal Processing and Gesture Recognition
 This project demonstrates the processing and classification of surface Electromyography (sEMG) signals for gesture recognition. The pipeline includes signal filtering, feature extraction using the Haar wavelet transform, and classification using a K-Nearest Neighbors (KNN) classifier.
 
